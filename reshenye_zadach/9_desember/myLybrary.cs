@@ -24,7 +24,6 @@ public static void FillArray (int [] array, int min, int max)
     {
         array[i] = Random.Shared.Next(min,max);
     }
-
 }
-
+}
 
