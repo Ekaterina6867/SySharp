@@ -1,0 +1,15 @@
+D:\siSharp\reshenye_zadach\ex001\obj\Debug\net6.0\ex001.csproj.AssemblyReference.cache
+D:\siSharp\reshenye_zadach\ex001\obj\Debug\net6.0\ex001.GeneratedMSBuildEditorConfig.editorconfig
+D:\siSharp\reshenye_zadach\ex001\obj\Debug\net6.0\ex001.AssemblyInfoInputs.cache
+D:\siSharp\reshenye_zadach\ex001\obj\Debug\net6.0\ex001.AssemblyInfo.cs
+D:\siSharp\reshenye_zadach\ex001\obj\Debug\net6.0\ex001.csproj.CoreCompileInputs.cache
+D:\siSharp\reshenye_zadach\ex001\bin\Debug\net6.0\ex001.exe
+D:\siSharp\reshenye_zadach\ex001\bin\Debug\net6.0\ex001.deps.json
+D:\siSharp\reshenye_zadach\ex001\bin\Debug\net6.0\ex001.runtimeconfig.json
+D:\siSharp\reshenye_zadach\ex001\bin\Debug\net6.0\ex001.dll
+D:\siSharp\reshenye_zadach\ex001\bin\Debug\net6.0\ex001.pdb
+D:\siSharp\reshenye_zadach\ex001\obj\Debug\net6.0\ex001.dll
+D:\siSharp\reshenye_zadach\ex001\obj\Debug\net6.0\refint\ex001.dll
+D:\siSharp\reshenye_zadach\ex001\obj\Debug\net6.0\ex001.pdb
+D:\siSharp\reshenye_zadach\ex001\obj\Debug\net6.0\ex001.genruntimeconfig.cache
+D:\siSharp\reshenye_zadach\ex001\obj\Debug\net6.0\ref\ex001.dll
