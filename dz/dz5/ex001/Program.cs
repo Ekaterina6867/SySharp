@@ -12,6 +12,7 @@ void FillArray(int[] col) //метод заполнения массива
     }
 }
 
+  
 void PrintArray(int[]col) //метод печати массива
 {
     int count = col.Length;
