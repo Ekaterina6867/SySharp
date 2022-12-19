@@ -37,13 +37,13 @@ void SrArf (int[,] arr) // метод нахождения среднего ар
      {
         double summ=0;
     
-         for (int i = 0; i < arr.GetLength(1); i++)
+         for (int i = 0; i < arr.GetLength(0); i++)
          {    
          summ=summ+arr[i,j];
               
 
          }
-         Console.WriteLine($"среднее арифметическое {j} строки { summ / arr.GetLength(0)} ");
+         Console.WriteLine($" среднее арифмитическое {j} столбца { summ / arr.GetLength(0)} ");
      }
     
 }
