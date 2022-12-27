@@ -4,17 +4,20 @@
 // M = 4; N = 8. -> 30
  void Sum (int m, int n)
  {
-    
-    int summa = 0 ;
-        for (int i = m; i <= n; i++)
+    if (m<n )
     {
-        int x=m+1;
-        summa=summa+x;
+    int summa = 0 ;
+        for (int i = m; i < n; i++)
+    {
+       
+        summa=((m + n) / 2) * (n - m + 1);
+        
               
         
     }
         Console.Write($"сумма элементов от {m} до {n} равна {summa}" );
-        
+    }
+        else Console.WriteLine("ошибка");
     
  }
- Sum(9,7);
+ Sum(4,8);
